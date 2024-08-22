@@ -1,5 +1,5 @@
 # California House Price Prediction - Linear Regression Model
-
+![Uploading large_image13.jpg…]()
 ## Project Overview
 This project involves predicting house prices in California using a linear regression model. The dataset contains various features like location, population, total rooms, and income levels, which are used to build a model that estimates property prices. The analysis dives deep into relationships between features to provide insights into factors influencing house prices in the region.
 
