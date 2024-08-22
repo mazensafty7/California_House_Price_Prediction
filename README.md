@@ -32,7 +32,7 @@ The data was split into training and test sets, and a linear regression model wa
 3. **Income and House Price**: Areas with higher median income have higher house prices, reflecting a strong positive correlation.
 4. **Proximity to Ocean**: Houses closer to the ocean tend to be more expensive, with a high median income rate, especially near ocean less than 1 hour.
 5. **Longitude and Latitude**: Homes closer to the west (higher longitude) and nearer to the ocean have higher prices, while those further inland (lower longitude) are less expensive.
-   **For more about correalations go to : https://app.milanote.com/1SH6aN1JBYxAcm?p=ec7fAn22fDg
+   **For more about correlations go to : https://app.milanote.com/1SH6aN1JBYxAcm?p=ec7fAn22fDg**
    ![California House Price Prediction](https://github.com/user-attachments/assets/828c79ab-608f-4602-a6cc-9b217008cce5)
 
 ### Storytelling:
