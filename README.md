@@ -1,0 +1,2 @@
+# CodeAlpha_Linear_Regression_House_Price_Prediction
+California House Price Prediction Using Linear Regression This project uses a linear regression model to predict house prices in California based on features like location, age, and median income. The model analyzes real-world data to provide insights into factors affecting property values and offers accurate price estimates for different areas.
