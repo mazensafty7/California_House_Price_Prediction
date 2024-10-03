@@ -65,4 +65,4 @@ The **AdaBoost** model outperformed the Decision Tree model in terms of accuracy
 - **Data Analysis and Visualization**: Pandas, Numpy, Matplotlib, Seaborn
 - **Data Preprocessing**: Handling missing data, Min-Max Scaler, One-hot Encoding
 - **Machine Learning**: Decision Tree, AdaBoost
-- **Model Evaluation**: Cross-validation, GridSearch, Model tuning
+- **Model Evaluation**: Cross-validation, GridSearch, Model tuning , Learning Curves
